@@ -1,0 +1,164 @@
+Case,Age,Gender,Nationality,Status,Confirmed Date,Recovered Date,Deceased
+2162,61,Male,Malaysian,Death,"24th, Mar 2020",-,"28th, Mar 2020"
+2032,83,Male,Malaysian,Death,"25th, Mar 2020",-,"27th, Mar 2020"
+1840,62,Male,Malaysian,Death,"23rd, Mar 2020",-,"26th, Mar 2020"
+1797,48,Male,Malaysian,Death,"23rd, Mar 2020",-,"26th, Mar 2020"
+1625,56,Male,Malaysian,Death,"20th, Mar 2020",-,"25th, Mar 2020"
+1588,63,Male,Malaysian,Death,"23rd, Mar 2020",-,"26th, Mar 2020"
+1519,71,Male,Malaysian,Death,"18th, Mar 2020",-,"24th, Mar 2020"
+1334,75,Male,Malaysian,Death,"16th, Mar 2020",-,"24th, Mar 2020"
+1321,53,Male,Malaysian,Death,"22nd, Mar 2020",-,"27th, Mar 2020"
+1251,66,Male,Malaysian,Death,"20th, Mar 2020",-,"25th, Mar 2020"
+1246,68,Female,Malaysian,Death,"19th, Mar 2020",-,"25th, Mar 2020"
+1114,70,Male,Malaysian,Death,"21st, Mar 2020",-,"23rd, Mar 2020"
+1070,70,Male,Malaysian,Death,"22nd, Mar 2020",-,"22nd, Mar 2020"
+1056,35,Male,Malaysian,Death,"18th, Mar 2020",-,"26th, Mar 2020"
+1032,40,Female,Malaysian,Death,"18th, Mar 2020",-,"21st, Mar 2020"
+1031,79,Female,Malaysian,Death,"16th, Mar 2020",-,"18th, Mar 2020"
+1006,49,Male,Malaysian,Death,"20th, Mar 2020",-,"23rd, Mar 2020"
+890,48,Male,Malaysian,Death,"17th, Mar 2020",-,"22nd, Mar 2020"
+781,69,Male,Malaysian,Death,"16th, Mar 2020",-,"21st, Mar 2020"
+780,76,Male,Malaysian,Death,"18th, Mar 2020",-,"25th, Mar 2020"
+595,51,Female,Malaysian,Death,"17th, Mar 2020",-,"23rd, Mar 2020"
+358,60,Male,Malaysian,Death,"15th, Mar 2020",-,"17th, Mar 2020"
+290,57,Male,Malaysian,Death,"15th, Mar 2020",-,"21st, Mar 2020"
+259,74,Male,Malaysian,Death,"14th, Mar 2020",-,"22nd, Mar 2020"
+252,72,Male,Malaysian,In Hospital,"15th, Mar 2020",-,-
+251,61,Male,Malaysian,In Hospital,"15th, Mar 2020",-,-
+250,60,Male,Malaysian,In Hospital,"15th, Mar 2020",-,-
+249,38,Male,Malaysian,In Hospital,"15th, Mar 2020",-,-
+248,63,Male,Malaysian,In Hospital,"15th, Mar 2020",-,-
+247,64,Male,Malaysian,In Hospital,"15th, Mar 2020",-,-
+246,62,Male,Malaysian,In Hospital,"15th, Mar 2020",-,-
+245,53,Male,Malaysian,In Hospital,"15th, Mar 2020",-,-
+243,58,Male,Malaysian,In Hospital,"15th, Mar 2020",-,-
+242,16,Male,Malaysian,In Hospital,"15th, Mar 2020",-,-
+241,68,Male,Malaysian,In Hospital,"15th, Mar 2020",-,-
+240,?,?,Malaysian,In Hospital,"14th, Mar 2020",-,-
+239,?,?,Malaysian,In Hospital,"14th, Mar 2020",-,-
+238,60,Male,Malaysian,Death,"14th, Mar 2020",-,"21st, Mar 2020"
+237,?,?,Malaysian,In Hospital,"14th, Mar 2020",-,-
+203,?,?,Malaysian,In Hospital,"14th, Mar 2020",-,-
+202,?,?,Malaysian,In Hospital,"14th, Mar 2020",-,-
+201,?,?,Malaysian,In Hospital,"14th, Mar 2020",-,-
+200,60,Female,Malaysian,In Hospital,"13th, Mar 2020",-,-
+199,73,Male,Malaysian,In Hospital,"13th, Mar 2020",-,-
+198,46,Male,Malaysian,In Hospital,"13th, Mar 2020",-,-
+178,34,Male,Malaysian,Death,"13th, Mar 2020",-,"17th, Mar 2020"
+158,?,Female,Malaysian,In Hospital,"12th, Mar 2020",-,-
+157,?,Male,Malaysian,In Hospital,"12th, Mar 2020",-,-
+152,58,Male,Malaysian,Death,"12th, Mar 2020",-,"20th, Mar 2020"
+151,66,Male,Malaysian,In Hospital,"12th, Mar 2020",-,-
+136,26,Male,Malaysian,In Hospital,"11th, Mar 2020",-,-
+131,60,Male,Malaysian,In Hospital,"11th, Mar 2020",-,-
+129,?,?,Malaysian,In Hospital,"10th, Mar 2020",-,-
+128,?,?,Malaysian,In Hospital,"10th, Mar 2020",-,-
+127,?,?,Malaysian,In Hospital,"10th, Mar 2020",-,-
+126,?,?,Malaysian,In Hospital,"10th, Mar 2020",-,-
+125,?,?,Malaysian,In Hospital,"10th, Mar 2020",-,-
+124,?,?,Malaysian,In Hospital,"10th, Mar 2020",-,-
+123,?,?,Malaysian,In Hospital,"10th, Mar 2020",-,-
+122,?,?,Malaysian,In Hospital,"10th, Mar 2020",-,-
+121,?,?,Malaysian,In Hospital,"10th, Mar 2020",-,-
+120,?,?,Malaysian,In Hospital,"10th, Mar 2020",-,-
+119,?,?,Malaysian,In Hospital,"10th, Mar 2020",-,-
+118,?,?,Malaysian,In Hospital,"10th, Mar 2020",-,-
+101,?,Male,Malaysian,In Hospital,"9th, Mar 2020",-,-
+99,?,?,Malaysian,In Hospital,"8th, Mar 2020",-,-
+98,?,?,Malaysian,In Hospital,"8th, Mar 2020",-,-
+97,?,?,Malaysian,In Hospital,"8th, Mar 2020",-,-
+96,?,?,Malaysian,In Hospital,"8th, Mar 2020",-,-
+95,?,?,Malaysian,In Hospital,"8th, Mar 2020",-,-
+94,?,?,Malaysian,In Hospital,"8th, Mar 2020",-,-
+93,?,?,Malaysian,In Hospital,"7th, Mar 2020",-,-
+92,?,?,Malaysian,In Hospital,"7th, Mar 2020",-,-
+91,?,?,Malaysian,In Hospital,"7th, Mar 2020",-,-
+90,?,?,Malaysian,In Hospital,"7th, Mar 2020",-,-
+89,?,?,Malaysian,In Hospital,"7th, Mar 2020",-,-
+88,?,?,Malaysian,In Hospital,"7th, Mar 2020",-,-
+87,68,Male,Malaysian,Recovered,"5th, Mar 2020","9th, Mar 2020",-
+86,?,Male,Malaysian,In Hospital,"7th, Mar 2020",-,-
+84,12,Male,Malaysian,Recovered,"6th, Mar 2020","15th, Mar 2020",-
+83,53,Female,Malaysian,In Hospital,"6th, Mar 2020",-,-
+82,53,Female,Malaysian,In Hospital,"6th, Mar 2020",-,-
+81,51,Female,Malaysian,In Hospital,"6th, Mar 2020",-,-
+80,36,Male,Malaysian,In Hospital,"6th, Mar 2020",-,-
+79,32,Male,Malaysian,In Hospital,"6th, Mar 2020",-,-
+78,47,Female,Malaysian,Recovered,"4th, Mar 2020","11th, Mar 2020",-
+77,57,Male,Malaysian,In Hospital,"6th, Mar 2020",-,-
+76,24,Female,Malaysian,In Hospital,"6th, Mar 2020",-,-
+75,21,Female,Malaysian,Recovered,"4th, Mar 2020","15th, Mar 2020",-
+74,35,Female,Malaysian,In Hospital,"6th, Mar 2020",-,-
+73,53,Female,Malaysian,In Hospital,"6th, Mar 2020",-,-
+72,44,Female,Malaysian,In Hospital,"6th, Mar 2020",-,-
+71,56,Male,Malaysian,In Hospital,"6th, Mar 2020",-,-
+70,51,Female,Malaysian,In Hospital,"6th, Mar 2020",-,-
+69,32,Female,Malaysian,In Hospital,"6th, Mar 2020",-,-
+68,36,Female,Malaysian,In Hospital,"6th, Mar 2020",-,-
+67,33,Male,Malaysian,In Hospital,"6th, Mar 2020",-,-
+66,61,Female,Malaysian,In Hospital,"6th, Mar 2020",-,-
+65,52,Male,Malaysian,In Hospital,"6th, Mar 2020",-,-
+64,28,Female,Malaysian,In Hospital,"6th, Mar 2020",-,-
+63,8,Female,Malaysian,In Hospital,"6th, Mar 2020",-,-
+62,50,Male,Malaysian,In Hospital,"6th, Mar 2020",-,-
+61,58,Female,Malaysian,In Hospital,"6th, Mar 2020",-,-
+60,63,Male,Malaysian,Recovered,"5th, Mar 2020","14th, Mar 2020",-
+59,61,Male,Malaysian,In Hospital,"6th, Mar 2020",-,-
+58,29,Female,Malaysian,In Hospital,"6th, Mar 2020",-,-
+57,16,Male,Malaysian,In Hospital,"6th, Mar 2020",-,-
+56,50,Female,Malaysian,In Hospital,"6th, Mar 2020",-,-
+55,36,Female,Malaysian,In Hospital,"5th, Mar 2020",-,-
+54,46,Male,Malaysian,Recovered,"4th, Mar 2020","15th, Mar 2020",-
+53,50,Male,Malaysian,Recovered,"4th, Mar 2020","12th, Mar 2020",-
+52,42,Male,Malaysian,Recovered,"4th, Mar 2020","15th, Mar 2020",-
+51,9,Male,Malaysian,Recovered,"4th, Mar 2020","13th, Mar 2020",-
+50,56,Female,Malaysian,In Hospital,"4th, Mar 2020",-,-
+49,51,Male,Malaysian,Recovered,"3rd, Mar 2020","15th, Mar 2020",-
+48,55,Female,Malaysian,In Hospital,"4th, Mar 2020",-,-
+47,62,Male,Malaysian,In Hospital,"4th, Mar 2020",-,-
+46,41,Male,Malaysian,Recovered,"3rd, Mar 2020","15th, Mar 2020",-
+45,30,Male,Malaysian,In Hospital,"4th, Mar 2020",-,-
+44,62,Female,Malaysian,In Hospital,"4th, Mar 2020",-,-
+43,59,Female,Malaysian,In Hospital,"4th, Mar 2020",-,-
+42,38,Female,Malaysian,In Hospital,"4th, Mar 2020",-,-
+41,27,Female,Malaysian,Recovered,"4th, Mar 2020","8th, Mar 2020",-
+40,49,Male,Malaysian,In Hospital,"2nd, Mar 2020","15th, Mar 2020",-
+39,45,Male,Malaysian,In Hospital,"4th, Mar 2020",-,-
+38,60,Female,Malaysian,In Hospital,"4th, Mar 2020",-,-
+37,63,Male,Malaysian,In Hospital,"4th, Mar 2020",-,-
+36,49,Male,Malaysian,In Hospital,"3rd, Mar 2020",-,-
+35,51,Female,Malaysian,Recovered,"2nd, Mar 2020","14th, Mar 2020",-
+34,40,Male,Malaysian,Recovered,"3rd, Mar 2020","12th, Mar 2020",-
+33,58,Male,Malaysian,In Hospital,"2nd, Mar 2020",-,-
+32,43,Female,Malaysian,Recovered,"2nd, Mar 2020","12th, Mar 2020",-
+31,50,Male,Malaysian,Recovered,"2nd, Mar 2020","12th, Mar 2020",-
+30,38,Male,Malaysian,In Hospital,"2nd, Mar 2020",-,-
+29,35,Female,Malaysian,In Hospital,"29th, Feb 2020",-,-
+28,45,Male,Malaysian,Recovered,"28th, Feb 2020","12th, Mar 2020",-
+27,20,Female,Malaysian,Recovered,"28th, Feb 2020","12th, Mar 2020",-
+26,52,Male,Malaysian,In Hospital,"29th, Feb 2020",-,-
+25,54,Male,Italian,In Hospital,"28th, Feb 2020",-,-
+24,41,Female,Japanese,Recovered,"27th, Feb 2020","6th, Mar 2020",-
+23,53,Female,Malaysian,In Hospital,"27th, Feb 2020",-,-
+22,83,Female,American,Recovered,"15th, Feb 2020","27th, Feb 2020",-
+21,32,Female,China,Recovered,"14th, Feb 2020","19th, Feb 2020",-
+20,27,Male,China,Recovered,"14th, Feb 2020","19th, Feb 2020",-
+19,39,Female,China,Recovered,"13th, Feb 2020","24th, Feb 2020",-
+18,32,Male,Malaysian,Recovered,"10th, Feb 2020","19th, Feb 2020",-
+17,64,Female,Malaysian,Recovered,"9th, Feb 2020","19th, Feb 2020",-
+16,67,Female,China,Recovered,"8th, Feb 2020","27th, Feb 2020",-
+15,59,Female,China,Recovered,"7th, Feb 2020","16th, Feb 2020",-
+14,37,Female,China,Recovered,"6th, Feb 2020","24th, Feb 2020",-
+13,40,Female,Malaysian,Recovered,"6th, Feb 2020","22nd, Feb 2020",-
+12,9,Male,Malaysian,Recovered,"5th, Feb 2020","18th, Feb 2020",-
+11,45,Male,Malaysian,Recovered,"5th, Feb 2020","18th, Feb 2020",-
+10,63,Male,China,Recovered,"3rd, Feb 2020","9th, Feb 2020",-
+9,41,Male,Malaysian,Recovered,"4th, Feb 2020","17th, Feb 2020",-
+8,49,Female,China,Recovered,"30th, Jan 2020","18th, Feb 2020",-
+7,52,Male,China,Recovered,"28th, Jan 2020","18th, Feb 2020",-
+6,4,Female,China,Recovered,"28th, Jan 2020","4th, Feb 2020",-
+5,36,Female,China,Recovered,"28th, Jan 2020","14th, Feb 2020",-
+4,40,Male,China,Recovered,"25th, Jan 2020","8th, Feb 2020",-
+3,65,Female,China,Recovered,"24th, Jan 2020","14th, Feb 2020",-
+2,2,Male,China,Recovered,"24th, Jan 2020","14th, Feb 2020",-
+1,11,Male,China,Recovered,"24th, Jan 2020","14th, Feb 2020",-
